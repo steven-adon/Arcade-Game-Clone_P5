@@ -61,11 +61,12 @@
 ##一些资源
 
 ######JavaScript
+
     JavaScript入门 https://www.udacity.com/course/intro-to-javascript--ud803
     
     JavaScript基础 https://www.udacity.com/course/javascript-basics--ud804
     
-   面向对象的JavaScript https://www.udacity.com/course/object-oriented-javascript--ud015
+    面向对象的JavaScript https://www.udacity.com/course/object-oriented-javascript--ud015
    
   书籍： JavaScript高级程序设计 第三版
 	JavaScript权威指南 第六版
@@ -74,6 +75,7 @@
 	
 
 ######HTML5 Canvas
+
      https://www.udacity.com/course/html5-canvas--ud292
 	 书籍：HTML5权威指南
        
